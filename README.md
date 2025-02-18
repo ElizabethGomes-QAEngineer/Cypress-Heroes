@@ -7,7 +7,9 @@
 Projeto Cypress Heroes onde os usuários podem se registrar , fazer o login e realizar diversas ações. 
 Estratégias de automação desenvolvidas para testar o sistema de ponta a ponta  com estruturas reutilizáveis, garantindo eficiência e qualidade.
 
-
+> **💡 NOTA:**
+> Acesse na pasta cypress depois e2e e Pages dentro de e2e estão os specs deste projeto.
+>  
 
 ## 📝 Passo a Passo para Instalação
 
