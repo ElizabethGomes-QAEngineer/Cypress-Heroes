@@ -4,7 +4,7 @@
 
 
 
-Projeto de aplicativo Cypress Heroes onde o usuários podem se registrar , fazer o login e realizar diversas ações. 
+Projeto Cypress Heroes onde os usuários podem se registrar , fazer o login e realizar diversas ações. 
 Estratégias de automação desenvolvidas para testar o sistema de ponta a ponta  com estruturas reutilizáveis, garantindo eficiência e qualidade.
 
 
@@ -56,5 +56,5 @@ npx cypress open
 
 
 >
->**📜 ** **Nota** Este Projeto possui estará acessivel em http://localhost:3000.
+>**📜 ** **Nota** Este Projeto é acessivel em http://localhost:3000.
 >
