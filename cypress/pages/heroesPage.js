@@ -5,7 +5,6 @@ class HeroesPage {
                  return {
                        
                                 RegisterHeroes:{ name:'Aries Beth' , price:'50' , fans:'555' , saves:'255' }
-
                  }                 
       }
 
