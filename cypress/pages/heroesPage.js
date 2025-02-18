@@ -21,7 +21,6 @@ class HeroesPage {
                                 submitButton:"[novalidate=''] .bg-blue-700"
 
                 };return selectors;
-
       }
 
 AcessAvatar() {
